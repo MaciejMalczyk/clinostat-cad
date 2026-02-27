@@ -1,4 +1,7 @@
 # Clinostat-cad
+
+<img src="img.png" height=400></img>
+
 2 axis clinostat for microgravity plant cultivation. Made with FreeCAD. Some models are imported from Autodesk Inventor, so they are avaiable only in step format.
 
 Main assembly in clinostate/Clinostate.FCStd
