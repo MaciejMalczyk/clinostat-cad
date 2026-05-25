@@ -8,6 +8,12 @@ Main assembly in clinostate/Clinostate.FCStd
 
 You will need Fasteners workbench for screws. Render and Exploded Assembly workbench are optional.
 
+This is part of my PhD Thesis: The use of a long-term space flight simulator based on embedded systems to analyze the life cycle of selected elements of animated nature,
+
+supervised by Prof. Tomasz Błachowicz: https://www.researchgate.net/profile/Tomasz-Blachowicz
+
+<3
+
 ## License 
 CERN-OHL-P V2.0,
 
