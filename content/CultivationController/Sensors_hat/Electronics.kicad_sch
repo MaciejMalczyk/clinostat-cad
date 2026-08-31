@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6e54036c-1348-44b4-91a5-9c286e01221b")
+	(paper "A5")
+	(lib_symbols)
+	(sheet
+		(at 15.24 15.24)
+		(size 17.78 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3301b61b-e9ff-4f21-8f0d-33518575e106")
+		(property "Sheetname" "Light"
+			(at 15.24 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "light.kicad_sch"
+			(at 15.24 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electronics"
+				(path "/6e54036c-1348-44b4-91a5-9c286e01221b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 15.24)
+		(size 17.78 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "520ae4e2-e0fd-460b-93d2-aa50e40a2e03")
+		(property "Sheetname" "Cultivation"
+			(at 95.25 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cultivation.kicad_sch"
+			(at 95.25 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electronics"
+				(path "/6e54036c-1348-44b4-91a5-9c286e01221b"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 15.24)
+		(size 19.05 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ab01284e-cef5-477c-90e2-4d900518cfa0")
+		(property "Sheetname" "Pump"
+			(at 41.91 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pump.kicad_sch"
+			(at 41.91 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electronics"
+				(path "/6e54036c-1348-44b4-91a5-9c286e01221b"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 15.24)
+		(size 19.05 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6344789-1ae7-4c51-8ba8-952e6a804f0f")
+		(property "Sheetname" "Clinostat"
+			(at 67.31 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clinostat.kicad_sch"
+			(at 67.31 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Electronics"
+				(path "/6e54036c-1348-44b4-91a5-9c286e01221b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
